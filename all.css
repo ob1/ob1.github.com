@@ -261,12 +261,9 @@ Full-Width Styles
 }
 
 #mypic {
-  display: block;
-  position: absolute;
+  float: right;
   width: 166px;
   height: 166px;
-  right: 166px;
-  top: 83px;
   border-radius: 10px;
 }
 
