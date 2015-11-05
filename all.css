@@ -263,12 +263,11 @@ Full-Width Styles
 #mypic {
   display: block;
   position: absolute;
-  right: 50px;
-  transform:rotate(350deg);
-  -ms-transform:rotate(350deg); /* IE 9 */
-  -moz-transform:rotate(350deg); /* Firefox */
-  -webkit-transform:rotate(350deg); /* Safari and Chrome */
-  -o-transform:rotate(350deg); /* Opera */
+  width: 166px;
+  height: 166px;
+  right: 166px;
+  top: 83px;
+  border-radius: 10px;
 }
 
 /*******************************************************************************
